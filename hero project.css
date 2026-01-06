@@ -1,0 +1,94 @@
+.a
+{
+    position: relative;
+    z-index: 1;
+    left: 90px;
+}
+.b
+{
+    position: relative;
+    z-index: 2;
+top: 50px;
+    right: 90px;
+}
+.container1, .container3
+{
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+}
+.container1:hover,.dog:hover
+
+{
+opacity: 0.8;
+}
+.img1
+{
+    position: relative;
+    z-index: 1;
+}
+.container2
+{
+position: relative;
+z-index: 2;
+bottom: 85px;
+left: 30px;
+-webkit-box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.75);
+}
+.abc
+{
+    position: relative;
+    z-index: 3;
+    left: 120px;
+    bottom: 25px;
+}
+.aab
+{
+    position: relative;
+    bottom: 16px;
+}
+.aaa
+{
+    position: relative;
+    bottom: 30px;
+}
+.bbb
+{
+    position: relative;
+    bottom: 45px;
+}
+.ccc
+{
+    position: relative;
+    bottom: 55px;
+}
+.ant
+{
+    position: relative;
+    z-index: 1;
+}
+.container3
+{
+    position: relative;
+    z-index: 2;
+    bottom: 30px;
+    left: 30px;
+}
+.bat:hover,.bi:hover
+{
+opacity: 0.5;
+}
+.border:hover,.img1:hover,.ant:hover,.apple:hover
+{
+-webkit-box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.75);
+}
+.cat
+{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+
